@@ -4,8 +4,8 @@ In brief, the provided code represents a sequence-to-sequence (s2s) model with a
 
 Steps to access the files:
 
-1> There are two csv files namely sampletrain.csv, first download it and then go to your google drive/mydrive and upload there.
-Note: The sampletrain,csv file is just a test file if you want to use the whole data then download the train.csv file
+1> First download 'train.csv' file and then go to your google drive/mydrive and upload there.
+Note: The train.csv file is just a test file and not the whole data file.
 
 2> Download the main.ipynb file and run in it your google collab 
 
